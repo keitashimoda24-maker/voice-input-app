@@ -1,0 +1,8 @@
+PyQt6
+anthropic>=0.40.0
+mlx-whisper
+sounddevice
+numpy
+scipy
+pyperclip
+pynput

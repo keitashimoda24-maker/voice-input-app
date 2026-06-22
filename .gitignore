@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+logs/
+*.log
+config.json
+*.db
+*.pkl
+.DS_Store
+build/
+dist/
