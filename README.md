@@ -1,5 +1,7 @@
 # voice-input-app
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-black.svg) ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+
 A macOS menu-bar **speech-to-text input** app: hold a hotkey, talk, and your words are cleaned
 up and pasted into whatever app has focus. Transcription runs **locally** (Apple-Silicon Whisper
 via `mlx-whisper`); an optional Claude pass handles formatting, corrections, and "do something with
